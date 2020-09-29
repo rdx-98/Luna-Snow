@@ -38,7 +38,7 @@ async def help_message_f(client, message):
     #message_id = 99
     # display the /help
     
-    await message.reply_text("""**Hay It's Luna -- Your Welcome To BlinkCloud**\n\n **If You wants to Use GDrive Links Then Join: <a href="https://github.com/gautamajay52/TorrentLeech-Gdrive">TorrentLeech-Gdrive</a>""", disable_web_page_preview=True)
+    await message.reply_text("""**Hay It's Luna -- Your Welcome To BlinkCloud**\n\n **If You wants to Use GDrive Links Then Join: <a href="https://groups.google.com/forum/m/#!forum/blink-cloud">Blink Cloud</a>""", disable_web_page_preview=True)
 
 
 async def rename_message_f(client, message):
